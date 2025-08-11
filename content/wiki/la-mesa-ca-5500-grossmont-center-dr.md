@@ -33,11 +33,11 @@ La Mesa opened with a 1-Stage of some videos in 2022 showing the character cable
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts      |
 |--------------------------------------------------------------|--------------------|------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Currently In Use |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Currently In Use |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Currently In Use |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Currently In Use |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Currently In Use |
+| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Destroyed |
+| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Destroyed |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Destroyed |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Destroyed |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Destroyed |
 
 ## Current Games
 
